@@ -1,4 +1,4 @@
-# PostgreSQL---simple-market-hierarchy
+## PostgreSQL - simple market, hierarchy
 Простой магазин с иерархическим отчетом
 
 Для создания и наполнения таблиц, надо выполнить скрипт из файла **Create objects.sql**  
